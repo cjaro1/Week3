@@ -29,8 +29,9 @@
 	text-align: justify;
 	}
 	body {
-	background-image: url("\Week3\shutterstock_580569982.jpg");
-	background-postion: cover;
+	background-image: url("images/grey-white-background.jpg");
+	background-repeat: repeat-y;
+	background-opacity: 0.1;
 	}
 	.category {
 	text-align: center;
@@ -81,10 +82,10 @@
 <body>
 	<div>
 		<class="photo">
-			<img src="C:\Users\cjaro\Desktop\Stuff\WebDesign\Week3\images\christina-truong.png" class="photo">Christina Jaro</div>
+			<img src="images/christina-truong.png" class="photo">Christina Jaro</div>
 	<h1>Christina Jaro</h1>
 	<h2>graphic design intern</h2>
-<p id="summary">I have a flare for the art world. I've been drawing since I can remember and now create computerized artwork. I have experience in sales and management, and look forward to expanding my skill set even more. </p>
+<p id="summary">I have a flare for the art world. I've been drawing ever since I can remember and now create computerized artwork. I have experience in sales and management, and look forward to expanding my skill set even more. </p>
 <p class="category">Work Experience</p>
 <p class="info"><strong>Graphic Design Intern</strong><br>
 	Lenovo<br>
@@ -96,9 +97,9 @@
 	Graphic Design and Advertising</p>
 <p class="descript">Sharpened skills in various Adobe products; including Illustrator, Photoshop, Indesign, Premiere Pro, etc. Studied various design trends and techniques to produce a wide variety of styles. </p>
 <p class="category">Let's Keep in Touch!</p>
-	<p id="contact"> <a href="../../../WEB210/Week3/jaro@designing.com">jaro@designing.com</a><br>
-		<a href="../../../WEB210/Week3/www.jarodesigned.com">jarodesigned.com</a> <br>
-		<a href="../../../WEB210/Week3/www.instagram.com/jarodesigned">@jarodesigned</a>
+	<p id="contact"> <a href="Week3/jaro@designing.com">jaro@designing.com</a><br>
+		<a href="Week3/www.jarodesigned.com">jarodesigned.com</a> <br>
+		<a href="Week3/www.instagram.com/jarodesigned">@jarodesigned</a>
 	</p>
 	<footer>Copyright 2019 by Christina Jaro</footer>
 </body>
